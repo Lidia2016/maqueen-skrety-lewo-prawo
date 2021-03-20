@@ -1,11 +1,12 @@
 {
-    "name": "Maqueen skrety lewo prawo",
+    "name": "Maqueen do przodu do tyłu",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "maqueen": "github:jhlucky/maqueen#c7b3140c3b07fc9a779a2711c95d13a31e4278db",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.6.2"
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.2",
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
